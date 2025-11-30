@@ -1,4 +1,4 @@
-# Counter Contract
+# TIMERxCOUNTER
 
 This project demonstrates a basic Hardhat use case. I've made this simple Counter contract & have deployed it on the Open Campus testnet.
 
