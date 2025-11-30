@@ -13,4 +13,4 @@ Coontract Link: [0x8316d917770f1e6DC3013cEbC4F381BBD4b23e3A](https://opencampus-
         deploy.js
 ```
 
-Made by Naitik Gupta
+Made by John
